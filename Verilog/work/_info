@@ -1,0 +1,188 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog
+T_opt
+!s110 1619423089
+V`f_3ARY>F=hEPFlSeTcnz3
+04 15 4 work atanh_LOOKUP_tb fast 0
+=1-1831bf7387ae-60866f71-101-36c
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1619423412
+VU@OhIC@mlXe6Vcb[a]5771
+04 13 4 work cordictanh_tb fast 0
+=1-1831bf7387ae-608670b4-13d-2540
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1619422416
+VI^YfbYFho652nedP5156M2
+04 12 4 work cordicdiv_tb fast 0
+=1-1831bf7387ae-60866ccf-370-26c8
+R1
+R2
+n@_opt2
+R3
+R0
+vatanh_LOOKUP
+Z4 !s110 1619423406
+!i10b 1
+!s100 87Z4oB?N?MN;Nd8Ul<J1g2
+I]Kni7eD5DOAfa:DhPnGCQ3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dE:/Ee.SUT/AsIC-FPGA(Shabani)/Hws/Hw4/Part1/Verilog
+w1619423019
+8E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP.v
+FE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP.v
+L0 1
+Z7 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z8 !s108 1619423406.000000
+!s107 E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP.v|
+!s90 -reportprogress|300|-work|work|E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+natanh_@l@o@o@k@u@p
+vatanh_LOOKUP_tb
+R4
+!i10b 1
+!s100 <MZW<bVVoZGcNzHTGIVF;1
+I0;TgS6BgeV4AEnG:A[_@f1
+R5
+R6
+w1619423070
+8E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP_tb.v
+FE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP_tb.v|
+!s90 -reportprogress|300|-work|work|E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/atanh_LOOKUP_tb.v|
+!i113 0
+R9
+R2
+natanh_@l@o@o@k@u@p_tb
+vcordicdiv
+Z10 !s110 1619423407
+!i10b 1
+!s100 J<LmV6dP3QZ<Yh:d]BR5V0
+I_FZGTP8:FgaG4QJCJV;=o3
+R5
+R6
+w1619422403
+8E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv.v
+FE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z11 !s108 1619423407.000000
+!s107 E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv.v|
+!s90 -reportprogress|300|-work|work|E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv.v|
+!i113 0
+R9
+R2
+vcordicdiv_tb
+R10
+!i10b 1
+!s100 Q2]68ST8U0dU_dOBi=ZUU0
+I9zZ3RPaMU4R4nEhJ8FM]o1
+R5
+R6
+w1619422336
+8E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv_tb.v
+FE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R11
+!s107 E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv_tb.v|
+!s90 -reportprogress|300|-work|work|E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordicdiv_tb.v|
+!i113 0
+R9
+R2
+vcordictanh
+R10
+!i10b 1
+!s100 0H>3WMbAb@E3EDWCGLf_e1
+IzBEZYaD[BaFbGW@Z6B[LJ2
+R5
+R6
+w1619423375
+8E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh.v
+FE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh.v
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh.v|
+!s90 -reportprogress|300|-work|work|E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh.v|
+!i113 0
+R9
+R2
+vcordictanh_tb
+R10
+!i10b 1
+!s100 A7kD2]PVn85CA^A4JlVZI2
+IKeCHIdF1RlTcY2PdY4GQI0
+R5
+R6
+w1619422516
+8E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb.v
+FE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R11
+!s107 E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb.v|
+!s90 -reportprogress|300|-work|work|E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb.v|
+!i113 0
+R9
+R2
+vcordictanh_tb2
+!s110 1619423255
+!i10b 1
+!s100 Fk]bVlWa;^Z5UHQ2fA@YE1
+I<]2U>oQ^1Vn;3mfciLcC=0
+R5
+R6
+w1619410676
+8E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb2.v
+FE:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb2.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1619423255.000000
+!s107 E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb2.v|
+!s90 -reportprogress|300|-work|work|E:/EE.SUT/ASIC-FPGA(Shabani)/HWs/HW4/Part1/Verilog/cordictanh_tb2.v|
+!i113 0
+R9
+R2
